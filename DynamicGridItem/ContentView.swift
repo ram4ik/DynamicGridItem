@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    
     private let columns = [
         GridItem(.adaptive(minimum: 50, maximum: 150)),
         GridItem(.adaptive(minimum: 400, maximum: 600)),
